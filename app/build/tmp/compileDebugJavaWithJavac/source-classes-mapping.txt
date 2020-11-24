@@ -1,0 +1,12 @@
+ru/samsung/itschool/book/cells/BuildConfig.java
+ ru.samsung.itschool.book.cells.BuildConfig
+task/Stub.java
+ task.Stub
+task/Task.java
+ task.Task
+ task.Task$1
+ru/samsung/itschool/book/cells/CellsActivity.java
+ ru.samsung.itschool.book.cells.CellsActivity
+ ru.samsung.itschool.book.cells.CellsActivity$1
+ ru.samsung.itschool.book.cells.CellsActivity$1$1
+ ru.samsung.itschool.book.cells.CellsActivity$1$2

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sapper</string>
+    <string name="reset_text">Перезапустить игру</string>
+    <string name="timer">Времени прошло: </string>
+    <string name="mines">Мин не отмечено:  </string>
+    <string name="changeDifficult_button">Настроить сложость игры</string>
+</resources>
