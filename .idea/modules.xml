@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sapper.iml" filepath="$PROJECT_DIR$/.idea/modules/Sapper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Sapper.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Sapper.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Combat_engineer.iml" filepath="$PROJECT_DIR$/.idea/modules/Combat_engineer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Combat_engineer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Combat_engineer.app.iml" />
     </modules>
   </component>
 </project>

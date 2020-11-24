@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
     android:orientation="vertical"
-    android:padding="40dp">
+    android:padding="20dp"
+    app:layout_gravity="bottom|center">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,6 +30,15 @@
 
     </LinearLayout>
 
+    <TextView
+        android:id="@+id/game_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="bottom|center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -40,6 +53,49 @@
             android:padding="5dp" />
     </FrameLayout>
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/choose_difficult"
+        android:textSize="20sp" />
+    android:text="@string/choose_difficult" />
+
+    <RadioGroup
+        android:id="@+id/radio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/difficult_mode0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/difficult_mode0" />
+
+        <RadioButton
+            android:id="@+id/difficult_mode1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/difficult_mode1" />
+
+        <RadioButton
+            android:id="@+id/difficult_mode2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/difficult_mode2" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/button_changeDifficult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:onClick="acceptDifficult"
+        android:text="@string/accept_difficult" />
+
     <Button
         android:id="@+id/reset_button"
         android:layout_width="match_parent"
@@ -47,13 +103,5 @@
         android:layout_gravity="center_horizontal"
         android:onClick="resetMap"
         android:text="@string/reset_text" />
-
-    <Button
-        android:id="@+id/button_changeDifficult"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:onClick="showDufficultlySelection"
-        android:text="@string/changeDifficult_button" />
 
 </LinearLayout>

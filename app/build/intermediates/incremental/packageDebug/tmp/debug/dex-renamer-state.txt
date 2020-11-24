@@ -1,4 +1,4 @@
-#Tue Nov 24 20:21:34 MSK 2020
-base.0=C\:\\prog\\github\\Sapper\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed Nov 25 02:03:28 MSK 2020
+base.0=C\:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
