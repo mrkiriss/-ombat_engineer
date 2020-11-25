@@ -1372,7 +1372,9 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable eight
 drawable end_mine
+drawable five
 drawable flag
 drawable four
 drawable hide
@@ -1413,11 +1415,14 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable one
+drawable seven
+drawable six
 drawable test_custom_background
 drawable three
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable two
+drawable unknown
 drawable zero
 id ALT
 id BOTTOM_END
@@ -1625,6 +1630,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id record
 id reset_button
 id right
 id right_icon

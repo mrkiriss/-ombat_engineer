@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_five.png.flat",
+        "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
         "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_interface.xml.flat",
         "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\layout\\new_interface.xml"
     },
@@ -10,6 +14,10 @@
     {
         "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\layout_cell.xml.flat",
         "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\layout\\cell.xml"
+    },
+    {
+        "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unknown.png.flat",
+        "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\unknown.png"
     },
     {
         "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_three.png.flat",
@@ -40,6 +48,10 @@
         "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\layout\\dialog.xml"
     },
     {
+        "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_six.png.flat",
+        "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
         "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hide.png.flat",
         "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\hide.png"
     },
@@ -48,12 +60,20 @@
         "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\four.png"
     },
     {
+        "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seven.png.flat",
+        "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\seven.png"
+    },
+    {
         "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag.png.flat",
         "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\flag.png"
     },
     {
         "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_two.png.flat",
         "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eight.png.flat",
+        "source": "C:\\prog\\github\\Combat_engineer\\app\\src\\main\\res\\drawable\\eight.png"
     },
     {
         "merged": "C:\\prog\\github\\Combat_engineer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",

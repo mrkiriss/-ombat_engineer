@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Combat_engineer</string>
+    <string name="app_name">Combat Engineer</string>
     <string name="reset_text">Перезапустить игру</string>
     <string name="timer">Времени прошло: </string>
     <string name="mines">Флагов осталось: </string>
     <string name="accept_difficult">Подтвердить уровень сложности</string>
     <string name="choose_difficult">Выберите уровень сложности:</string>
-    <string name="difficult_mode0">Новичёк: поле 4х4, 1 мина</string>
+    <string name="difficult_mode0">Новичёк: поле 4х4, 2 мины</string>
     <string name="difficult_mode1">Бывалый: поле 9х9, 10 мин</string>
     <string name="difficult_mode2">Профи: поле 16х16, 40 мин</string>
 </resources>

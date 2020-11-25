@@ -8,5 +8,6 @@ task/Task.java
 ru/samsung/itschool/book/cells/CellsActivity.java
  ru.samsung.itschool.book.cells.CellsActivity
  ru.samsung.itschool.book.cells.CellsActivity$1
- ru.samsung.itschool.book.cells.CellsActivity$1$1
- ru.samsung.itschool.book.cells.CellsActivity$1$2
+ ru.samsung.itschool.book.cells.CellsActivity$2
+ ru.samsung.itschool.book.cells.CellsActivity$2$1
+ ru.samsung.itschool.book.cells.CellsActivity$2$2
